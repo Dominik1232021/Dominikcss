@@ -1,0 +1,12 @@
+p {
+color:red;
+font-size:22pt
+}
+p#gruby_Szutenberg {
+	color: green;
+	font-size: 17pt;
+}
+#dlawszystkich_Szutenberg {
+	color: yellow;
+	font-size:10pt;
+}
